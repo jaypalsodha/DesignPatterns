@@ -40,3 +40,13 @@ Advantages of practicing design pattern
 - Builder Pattern
 - Prototype Pattern
 - Singleton Pattern
+
+# 2. Structural Design Pattern
+- Adapter Pattern
+- Bridge Pattern
+- Composite Pattern
+- Decorator Pattern
+- Facade pattern
+- Flyweight Pattern
+- Proxy Pattern
+
