@@ -34,6 +34,10 @@ Advantages of practicing design pattern
  - Refactoring
  - Memory Utilization
  
+ Behavioral Pattern
+ - These design patterns are used to provide solution for the better interaction between objects and how to provide the loose coupling and flexibility to extend easily. 
+ 
+ 
 # 1. Creational Design Pattern
 - Facotry Pattern
 - Abstract Factory Pattern
