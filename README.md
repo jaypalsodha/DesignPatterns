@@ -11,3 +11,8 @@ Advantages of practicing design pattern
 - It gives the developer a selection of tried and tested solution
 - Supports reusability and extensibility
 - Provides transperancy to the design of an application
+
+# Type of Design Patterns
+1. Creational
+2. Structural
+3. Behavioural
