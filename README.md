@@ -25,7 +25,15 @@ Advantages of practicing design pattern
  - Generic instantiation
  - Simplicity
  - Creation constraints
-
+ 
+ Structural Pattern
+ - These patterns are used to ease the development by identifying a way simple way to realize relationship between the entities.
+ 
+ Purpose of Structural Pattern
+ - Performance
+ - Refactoring
+ - Memory Utilization
+ 
 # 1. Creational Design Pattern
 - Facotry Pattern
 - Abstract Factory Pattern
