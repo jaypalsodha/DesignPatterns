@@ -16,3 +16,12 @@ Advantages of practicing design pattern
 1. Creational
 2. Structural
 3. Behavioural
+
+
+ Creational Pattern
+ - Creational pattern aims to separate a system from how its objects are created, composed and represented.
+
+ Purpose of Creational Pattern
+ - Generic instantiation
+ - Simplicity
+ - Creation constraints
