@@ -27,7 +27,7 @@ Advantages of practicing design pattern
  - Creation constraints
  
  Structural Pattern
- - These patterns are used to ease the development by identifying a way simple way to realize relationship between the entities.
+ - These patterns are used to ease the development by identifying a simple way to realize relationship between the entities.
  
  Purpose of Structural Pattern
  - Performance
