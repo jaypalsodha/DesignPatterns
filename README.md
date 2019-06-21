@@ -54,3 +54,19 @@ Advantages of practicing design pattern
 - Flyweight Pattern
 - Proxy Pattern
 
+# 3. Behavioral Design Pattern
+- Command Pattern
+- ....
+- ...
+- ..
+
+
+# Factory Pattern (Creational Design Pattern)
+- The factory design pattern is used to define an interface for creating an object, and let sub classes decide whic class to instantiate. 
+
+When to use Factory Pattern
+- Whenever we have a super class and n sub-classes and based on data provided if we have to return the object of an one of the sub classes.
+- At the run time we need to get an object of similar type based on type of parameter value passed
+- Whenever object creation code is spread across the entire appliation, and if we need to change the process of object creation. 
+
+
